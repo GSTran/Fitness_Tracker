@@ -59,10 +59,6 @@ Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 And you're all set! We will review the commit and merge your amazing feature to enhance our project!
 
-## License
-
-Distributed under the MIT License. See LICENSE for more information.
-
 ##Contact
 
 Safiullah Saif - safisaif4444@gmail.com
